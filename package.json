@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Tea xyz airdrop quest",
   "author": "@zonvn",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
   "repository": "https://github.com/zonorion/tea-xyz-quest.git",
   "scripts": {
